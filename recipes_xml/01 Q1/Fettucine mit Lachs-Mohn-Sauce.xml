@@ -2,7 +2,7 @@
 <fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd" rcpID="fr-5dac4d39-51de-4272-a66f-28f924c8ce95">
     <fr:meta>
         <fr:book>Sammlung_2022</fr:book>
-        <fr:chapter>01 Quartal</fr:chapter>
+        <fr:chapter>01 Q1</fr:chapter>
     </fr:meta>
     <fr:recipeName>Fettucine mit Lachs-Mohn-Sauce</fr:recipeName>
     <fr:recipeKeywords>Lachs,Roter Paprika,Mohn,Bandnudeln</fr:recipeKeywords>

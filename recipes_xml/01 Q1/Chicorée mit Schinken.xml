@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
 <fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd" rcpID="fr-9cdfb6a6-814f-42fa-bce7-85bb5ea85c7f">
     <fr:meta>
-        <fr:book>sammlung_2022</fr:book>
-        <fr:chapter>01 Quartal</fr:chapter>
+        <fr:book>Sammlung_2022</fr:book>
+        <fr:chapter>01 Q1</fr:chapter>
     </fr:meta>
     <fr:recipeName>Chicorée mit Schinken</fr:recipeName>
     <fr:recipeKeywords>Chicorée,Schinken</fr:recipeKeywords>

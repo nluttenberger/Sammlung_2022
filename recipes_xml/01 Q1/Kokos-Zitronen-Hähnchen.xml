@@ -1,2 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd"><fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd" rcpID="fr-edf896d9-d68f-43d1-815d-ba01b876d54d">
-<fr:meta><fr:book>sammlung_2022</fr:book><fr:chapter>01 Quartal</fr:chapter></fr:meta><fr:recipeName>Kokos-Zitronen-Hähnchen</fr:recipeName><fr:recipeKeywords></fr:recipeKeywords><fr:recipeIntro/><fr:recipeIngredients><fr:igdtList><fr:igdtListName></fr:igdtListName><fr:igdtListLine><fr:igdtQuantity>2</fr:igdtQuantity><fr:igdtName ref="huhn">Hähnchenkeulen</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1</fr:igdtQuantity><fr:igdtName ref="huhn">Hähnchenbrust</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>3</fr:igdtQuantity><fr:igdtName ref="tomate">Tomaten</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1</fr:igdtQuantity><fr:igdtName ref="zitrone">Zitrone (bio)</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1</fr:igdtQuantity><fr:igdtName ref="chili">Chilischote</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 EL</fr:igdtQuantity><fr:igdtName ref="kokosöl">Kokosöl</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>4</fr:igdtQuantity><fr:igdtName ref="knoblauch">Knoblauchzehen</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>350 ml</fr:igdtQuantity><fr:igdtName ref="hühnerbrühe">Geflügelfond</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>400 g</fr:igdtQuantity><fr:igdtName ref="kokosmilch">Kokosmilch</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>2</fr:igdtQuantity><fr:igdtName ref="kaffernlimette">Kaffirlimettenblätter</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 TL</fr:igdtQuantity><fr:igdtName ref="kokosblütenzucker">Kokosblütenzucker</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Salz, Pfeffer</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions><fr:instruction><fr:instrStepName>Vorbereitung</fr:instrStepName><fr:instrStepText>Hähnchenkeulen mit einem schweren Messer im Gelenk zerteilen. Brust am Knochen längs in 2 einfache Hähnchenbrüste zerteilen. Dann jede Brust quer halbieren. Mit Salz und Pfeffer würzen. Zitrone heiß waschen, in 4 Scheiben schneiden. Tomaten waagerecht halbieren. Chili längs einritzen, Kerne entfernen. Knoblauchzehen pellen und in grobe Stücke schneiden.</fr:instrStepText></fr:instruction><fr:instruction><fr:instrStepName>Anbraten</fr:instrStepName><fr:instrStepText>Kokosöl in einem Bräter erhitzen. Hähnchenteile darin von allen Seiten von allen Seiten anbraten. Aus dem Bräter nehmen und beiseite stellen.</fr:instrStepText><fr:instrStepText>Knoblauch und Zitronenscheiben in den Bräter geben und kurz anbraten. Aus dem Bräter nehmen. Die Zitronenscheiben und den Knoblauch separat beiseite stellen.</fr:instrStepText><fr:instrStepText>Nun mit den Tomatenhälften auf der Schnittseite anbraten. Aus dem Bräter nehmen und beiseite stellen. Dann das Öl aus dem Bräter entfernen.</fr:instrStepText></fr:instruction><fr:instruction><fr:instrStepName>Sauce</fr:instrStepName><fr:instrStepText>Geflügelfond mit Kokosmilch, Chili, Kaffirlimettenblättern, Kokosblütenzucker, Salz, Pfeffer und dem angebratenen Knoblauch aufkochen. Hähnchenkeulen mit den Hautseiten nach oben in den Bräter legen. Im vorgeheizten Ofen bei 210 °C Umluft insgesamt ca. 30 min offen garen. Nach 20 min Tomaten und Zitronen dazu geben. Zum Schluss die Hähnchenbrust in den Bräter geben und kurz erwärmen.</fr:instrStepText></fr:instruction><fr:instruction><fr:instrStepName>Servieren</fr:instrStepName><fr:instrStepText>Bräter aus dem Ofen nehmen. Mit Reis servieren.</fr:instrStepText></fr:instruction></fr:recipeInstructions><fr:recipeSideDish>Reis</fr:recipeSideDish><fr:recipeOrigin>[essen&amp;trinken](https://www.essen-und-trinken.de/rezepte/81575-rzpt-kokos-zitronen-huhn)</fr:recipeOrigin><fr:recipeSeeAlso></fr:recipeSeeAlso><fr:recipeLicense></fr:recipeLicense></fr:recipe>
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
+<fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd" rcpID="fr-edf896d9-d68f-43d1-815d-ba01b876d54d">
+    <fr:meta>
+        <fr:book>Sammlung_2022</fr:book>
+        <fr:chapter>01 Q1</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Kokos-Zitronen-Hähnchen</fr:recipeName>
+    <fr:recipeKeywords/>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>2</fr:igdtQuantity>
+                <fr:igdtName ref="huhn">Hähnchenkeulen</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="huhn">Hähnchenbrust</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>3</fr:igdtQuantity>
+                <fr:igdtName ref="tomate">Tomaten</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="zitrone">Zitrone (bio)</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1</fr:igdtQuantity>
+                <fr:igdtName ref="chili">Chilischote</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 EL</fr:igdtQuantity>
+                <fr:igdtName ref="kokosöl">Kokosöl</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>4</fr:igdtQuantity>
+                <fr:igdtName ref="knoblauch">Knoblauchzehen</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>350 ml</fr:igdtQuantity>
+                <fr:igdtName ref="hühnerbrühe">Geflügelfond</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>400 g</fr:igdtQuantity>
+                <fr:igdtName ref="kokosmilch">Kokosmilch</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>2</fr:igdtQuantity>
+                <fr:igdtName ref="kaffernlimette">Kaffirlimettenblätter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 TL</fr:igdtQuantity>
+                <fr:igdtName ref="kokosblütenzucker">Kokosblütenzucker</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Salz, Pfeffer</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Vorbereitung</fr:instrStepName>
+            <fr:instrStepText>Hähnchenkeulen mit einem schweren Messer im Gelenk zerteilen. Brust am Knochen längs in 2 einfache Hähnchenbrüste zerteilen. Dann jede Brust quer halbieren. Mit Salz und Pfeffer würzen. Zitrone heiß waschen, in 4 Scheiben schneiden. Tomaten waagerecht halbieren. Chili längs einritzen, Kerne entfernen. Knoblauchzehen pellen und in grobe Stücke schneiden.</fr:instrStepText>
+        </fr:instruction>
+        <fr:instruction>
+            <fr:instrStepName>Anbraten</fr:instrStepName>
+            <fr:instrStepText>Kokosöl in einem Bräter erhitzen. Hähnchenteile darin von allen Seiten von allen Seiten anbraten. Aus dem Bräter nehmen und beiseite stellen.</fr:instrStepText>
+            <fr:instrStepText>Knoblauch und Zitronenscheiben in den Bräter geben und kurz anbraten. Aus dem Bräter nehmen. Die Zitronenscheiben und den Knoblauch separat beiseite stellen.</fr:instrStepText>
+            <fr:instrStepText>Nun mit den Tomatenhälften auf der Schnittseite anbraten. Aus dem Bräter nehmen und beiseite stellen. Dann das Öl aus dem Bräter entfernen.</fr:instrStepText>
+        </fr:instruction>
+        <fr:instruction>
+            <fr:instrStepName>Sauce</fr:instrStepName>
+            <fr:instrStepText>Geflügelfond mit Kokosmilch, Chili, Kaffirlimettenblättern, Kokosblütenzucker, Salz, Pfeffer und dem angebratenen Knoblauch aufkochen. Hähnchenkeulen mit den Hautseiten nach oben in den Bräter legen. Im vorgeheizten Ofen bei 210 °C Umluft insgesamt ca. 30 min offen garen. Nach 20 min Tomaten und Zitronen dazu geben. Zum Schluss die Hähnchenbrust in den Bräter geben und kurz erwärmen.</fr:instrStepText>
+        </fr:instruction>
+        <fr:instruction>
+            <fr:instrStepName>Servieren</fr:instrStepName>
+            <fr:instrStepText>Bräter aus dem Ofen nehmen. Mit Reis servieren.</fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish>Reis</fr:recipeSideDish>
+    <fr:recipeOrigin>[essen&amp;trinken](https://www.essen-und-trinken.de/rezepte/81575-rzpt-kokos-zitronen-huhn)</fr:recipeOrigin>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>
