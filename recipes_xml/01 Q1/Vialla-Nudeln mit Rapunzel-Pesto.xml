@@ -1,4 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
 <fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd" rcpID="fr-2dabd953-a558-47cb-a343-0e862c9e49e4">
-<fr:meta><fr:book>Sammlung_2022</fr:book><fr:chapter>01 Q1</fr:chapter></fr:meta><fr:recipeName>Vialla-Nudeln mit Rapunzel-Pesto</fr:recipeName><fr:recipeKeywords>Nudeln,Feldsalat,Walnusskerne</fr:recipeKeywords><fr:recipeIntro/><fr:recipeIngredients><fr:igdtList><fr:igdtListName></fr:igdtListName><fr:igdtListLine><fr:igdtQuantity>150 g</fr:igdtQuantity><fr:igdtName ref="feldsalat">Feldsalat</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>2</fr:igdtQuantity><fr:igdtName ref="knoblauch">Knoblauchzehen</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>50 g</fr:igdtQuantity><fr:igdtName ref="walnuss">Walnusskerne</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>100 g</fr:igdtQuantity><fr:igdtName ref="parmesan">Parmesan</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>10 EL</fr:igdtQuantity><fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Salz, Pfeffer</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>400 g</fr:igdtQuantity><fr:igdtName ref="nudeln">Spaghetti von La Vialla</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions><fr:instruction><fr:instrStepName>Pesto</fr:instrStepName><fr:instrStepText>Feldsalat waschen, trocken schleudern. Knoblauch schälen und halbieren. Walnüsse in einer Pfanne ohne Fett leicht anrösten. 80 g Parmesan in grobe Stücke schneiden.</fr:instrStepText><fr:instrStepText>Feldsalat portionsweise in ein hohes Gefäß stopfen. Knoblauch, Walnusskerne und Parmesan zugeben. Olivenöl hinzufügen und alles mit dem Pürierstab mixen. Mit Salz und Pfeffer würzen. </fr:instrStepText></fr:instruction><fr:instruction><fr:instrStepName>Nudeln</fr:instrStepName><fr:instrStepText>Nudeln nach Packungsangabe kochen.</fr:instrStepText></fr:instruction><fr:instruction><fr:instrStepName>Servieren</fr:instrStepName><fr:instrStepText>Nudeln und Pesto servieren.</fr:instrStepText></fr:instruction></fr:recipeInstructions><fr:recipeSideDish></fr:recipeSideDish><fr:recipeOrigin></fr:recipeOrigin><fr:recipeSeeAlso></fr:recipeSeeAlso><fr:recipeLicense></fr:recipeLicense></fr:recipe>
+    <fr:meta>
+        <fr:book>Sammlung_2022</fr:book>
+        <fr:chapter>01 Q1</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Vialla-Nudeln mit Rapunzel-Pesto</fr:recipeName>
+    <fr:recipeKeywords>Nudeln,Feldsalat,Walnusskerne</fr:recipeKeywords>
+    <fr:recipeIntro/>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName/>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>150 g</fr:igdtQuantity>
+                <fr:igdtName ref="feldsalat">Feldsalat</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>2</fr:igdtQuantity>
+                <fr:igdtName ref="knoblauch">Knoblauchzehen</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>50 g</fr:igdtQuantity>
+                <fr:igdtName ref="walnuss">Walnusskerne</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>100 g</fr:igdtQuantity>
+                <fr:igdtName ref="parmesan">Parmesan</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>10 EL</fr:igdtQuantity>
+                <fr:igdtName ref="olivenöl">Olivenöl</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Salz, Pfeffer</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>400 g</fr:igdtQuantity>
+                <fr:igdtName ref="nudeln">Spaghetti von La Vialla</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Pesto</fr:instrStepName>
+            <fr:instrStepText>Feldsalat waschen, trocken schleudern. Knoblauch schälen und halbieren. Walnüsse in einer Pfanne ohne Fett leicht anrösten. 80 g Parmesan in grobe Stücke schneiden.</fr:instrStepText>
+            <fr:instrStepText>Feldsalat portionsweise in ein hohes Gefäß stopfen. Knoblauch, Walnusskerne und Parmesan zugeben. Olivenöl hinzufügen und alles mit dem Pürierstab mixen. Mit Salz und Pfeffer würzen. </fr:instrStepText>
+        </fr:instruction>
+        <fr:instruction>
+            <fr:instrStepName>Nudeln</fr:instrStepName>
+            <fr:instrStepText>Nudeln nach Packungsangabe kochen.</fr:instrStepText>
+        </fr:instruction>
+        <fr:instruction>
+            <fr:instrStepName>Servieren</fr:instrStepName>
+            <fr:instrStepText>Nudeln und Pesto servieren.</fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>
