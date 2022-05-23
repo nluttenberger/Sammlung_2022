@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
 <cat:assignments xmlns:cat="http://fruschtique.de/ns/recipe-cat" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe-cat ../tools/cat-assign.xsd">
     <cat:assignment>
         <cat:cat>für Gäste</cat:cat>
@@ -37,9 +37,9 @@
     </cat:assignment>
     <cat:assignment>
         <cat:cat>Quiches</cat:cat>
-        <cat:recipe>02 Q2/Spinat-Quiche</cat:recipe>
         <cat:recipe>02 Q2/Lauchkuchen vom Blech</cat:recipe>
         <cat:recipe>02 Q2/Quiche mit Choucroute und Würfelspeck</cat:recipe>
+        <cat:recipe>02 Q2/Spinat-Quiche</cat:recipe>
         <cat:color>#419d78</cat:color>
     </cat:assignment>
     <cat:assignment>
