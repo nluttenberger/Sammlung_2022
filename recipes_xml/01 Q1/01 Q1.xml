@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
 <fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe file:///c:/Users/nlutt/Documents/Websites/tools/recipe.xsd" rcpID="fr-2022-Q1">
    <fr:meta>
-      <fr:book>Sammlung_2022</fr:book>
+      <fr:book>menu-22</fr:book>
       <fr:chapter>01 Q1</fr:chapter>
    </fr:meta>
    <fr:recipeName>01 Q1</fr:recipeName>
