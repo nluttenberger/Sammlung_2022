@@ -9,7 +9,7 @@
     <fr:recipeIntro/>
     <fr:recipeIngredients>
         <fr:igdtList>
-            <fr:igdtListName>Zubereitung</fr:igdtListName>
+            <fr:igdtListName>Köfte</fr:igdtListName>
             <fr:igdtListLine>
                 <fr:igdtQuantity>200 g</fr:igdtQuantity>
                 <fr:igdtName ref="lammfleisch">Lammhack</fr:igdtName>
@@ -70,8 +70,10 @@
     </fr:recipeIngredients>
     <fr:recipeInstructions>
         <fr:instruction>
-            <fr:instrStepName/>
-            <fr:instrStepText/>
+            <fr:instrStepName>Kofta</fr:instrStepName>
+            <fr:instrStepText>Das Weißbrot wässern und, wenn es weich geworden ist, sorgfältig ausdrücken und etwas zerkleinern. Die Pinienkerne anrösten. Einige Pinienkerne für die Deko zurücklegen. Die anderen Pinienkerne hacken. Die Zwiebel fein würfeln, den Knoblauch zerdrücken. Von der Petersilie ebenfalls einige Stängel für die Deko zurücklegen. Die anderen fein hacken.</fr:instrStepText>
+            <fr:instrStepText>Zutaten für die Kofta vermengen. Flache Taler à ca. 75 g aus dem Fleischteig formen und gut zusammendrücken, damit die Kofta nicht zerfallen.</fr:instrStepText>
+            <fr:instrStepText>Die Kofta auf dem Grill kurz bei reduzierter Hitze von beiden Seiten goldbraun anbraten, bis sie ungefähr halb gar sind (ca. 1 min von jeder Seite). Auf der Ablagezone im Grill fertig garen (ca. 5 – 10 min).</fr:instrStepText>
         </fr:instruction>
     </fr:recipeInstructions>
     <fr:recipeSideDish/>
