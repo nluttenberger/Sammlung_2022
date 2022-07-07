@@ -1,4 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE stylesheet SYSTEM "file:///C:/Users/nlutt/Documents/Websites/tools/entities.dtd">
 <fr:recipe xmlns:fr="http://fruschtique.de/ns/recipe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://fruschtique.de/ns/recipe ../../../tools/recipe.xsd" rcpID="fr-913076dc-0b92-49e4-a620-9ceaca21a26d">
-<fr:meta><fr:book>menu-22</fr:book><fr:chapter>02 Q2</fr:chapter></fr:meta><fr:recipeName>Bohnensuppe</fr:recipeName><fr:recipeKeywords>Bohnen,Fleischbrühe,Kartoffeln,Bohnenkraut</fr:recipeKeywords><fr:recipeIntro><fr:introText>Endlich mal was Kräftiges.</fr:introText></fr:recipeIntro><fr:recipeIngredients><fr:igdtList><fr:igdtListName>Suppe</fr:igdtListName><fr:igdtListLine><fr:igdtQuantity>3</fr:igdtQuantity><fr:igdtName ref="zwiebel">Zwiebeln</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>200 g</fr:igdtQuantity><fr:igdtName ref="speck">Würfelspeck</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>2</fr:igdtQuantity><fr:igdtName ref="knoblauch">Knoblauchzehen</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="tomatenmark">Tomatenmark</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 Stange</fr:igdtQuantity><fr:igdtName ref="lauch">Lauch</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>2</fr:igdtQuantity><fr:igdtName ref="karotte">Karotten</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>500 g</fr:igdtQuantity><fr:igdtName ref="bohnen">grüne Bohnen</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 kl. Dose</fr:igdtQuantity><fr:igdtName ref="bohnen">Kidney-Bohnen</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 Glas</fr:igdtQuantity><fr:igdtName ref="bohnen">Bohnenkerne</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>5</fr:igdtQuantity><fr:igdtName ref="kartoffel">Kartoffeln</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>250 g</fr:igdtQuantity><fr:igdtName ref="speck">durchwachsener Speck</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>1 l</fr:igdtQuantity><fr:igdtName ref="fleischbrühe">Fleischbrühe</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity>2</fr:igdtQuantity><fr:igdtName ref="lorbeer">Lorbeerblätter</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Öl zum Anbraten</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="bohnenkraut">Bohnenkraut</fr:igdtName></fr:igdtListLine><fr:igdtListLine><fr:igdtQuantity></fr:igdtQuantity><fr:igdtName ref="">Salz, Pfeffer</fr:igdtName></fr:igdtListLine></fr:igdtList></fr:recipeIngredients><fr:recipeInstructions><fr:instruction><fr:instrStepName>Vorbereitung</fr:instrStepName><fr:instrStepText>Die Kartoffeln bereits am Vortag in der Schale garen. </fr:instrStepText><fr:instrStepText>Zwiebeln in Spalten schneiden. Durchwachsenen Speck in mundgerechte Stücke schneiden. Die grünen Bohnen kipfeln und in Stücke schneiden. Kartoffeln in Stücke schneiden. Die Karotten schälen und in kleine Stücke schneiden. Lauch in Ringe schneiden. Die Kidneybohnen gut abspülen. </fr:instrStepText><fr:instrStepText>Die grünen Bohnen separat garen. </fr:instrStepText></fr:instruction><fr:instruction><fr:instrStepName>Suppe</fr:instrStepName><fr:instrStepText>Öl in einem Topf erhitzen. Den durchwachsenen Speck kurz anbraten. Herausnehmen und beiseite stellen. </fr:instrStepText><fr:instrStepText>Würfelspeck und Zwiebeln in den Topf geben und kurz anbraten. Einen guten Schuss Tomatenmark hinzugeben und kurz mitbraten. Karotten und Lauch hinzugeben, leicht salzen und für ca. 10 min im eigenen Saft dünsten. </fr:instrStepText><fr:instrStepText>Dann alle Bohnen, die Kartoffeln, die Lorbeerblätter, den durchwachsenen Speck und die Fleischbrühe hinzugeben und alles ca. 20 min in der Fleischbrühe köcheln lassen. Mit Knoblauch, Bohnenkraut und Salz und Pfeffer würzen. </fr:instrStepText></fr:instruction></fr:recipeInstructions><fr:recipeSideDish></fr:recipeSideDish><fr:recipeOrigin></fr:recipeOrigin><fr:recipeSeeAlso></fr:recipeSeeAlso><fr:recipeLicense></fr:recipeLicense></fr:recipe>
+    <fr:meta>
+        <fr:book>menu-22</fr:book>
+        <fr:chapter>02 Q2</fr:chapter>
+    </fr:meta>
+    <fr:recipeName>Bohnensuppe</fr:recipeName>
+    <fr:recipeKeywords>Bohnen,Fleischbrühe,Kartoffeln,Bohnenkraut</fr:recipeKeywords>
+    <fr:recipeIntro>
+        <fr:introText>Endlich mal was Kräftiges.</fr:introText>
+    </fr:recipeIntro>
+    <fr:recipeIngredients>
+        <fr:igdtList>
+            <fr:igdtListName>Suppe</fr:igdtListName>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>3</fr:igdtQuantity>
+                <fr:igdtName ref="zwiebel">Zwiebeln</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>200 g</fr:igdtQuantity>
+                <fr:igdtName ref="speck">Würfelspeck</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>2</fr:igdtQuantity>
+                <fr:igdtName ref="knoblauch">Knoblauchzehen</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="tomatenmark">Tomatenmark</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Stange</fr:igdtQuantity>
+                <fr:igdtName ref="lauch">Lauch</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>2</fr:igdtQuantity>
+                <fr:igdtName ref="karotte">Karotten</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>500 g</fr:igdtQuantity>
+                <fr:igdtName ref="bohnen">grüne Bohnen</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 kl. Dose</fr:igdtQuantity>
+                <fr:igdtName ref="bohnen">Kidney-Bohnen</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 Glas</fr:igdtQuantity>
+                <fr:igdtName ref="bohnen">Bohnenkerne</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>5</fr:igdtQuantity>
+                <fr:igdtName ref="kartoffel">Kartoffeln</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>250 g</fr:igdtQuantity>
+                <fr:igdtName ref="speck">durchwachsener Speck</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>1 l</fr:igdtQuantity>
+                <fr:igdtName ref="fleischbrühe">Fleischbrühe</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity>2</fr:igdtQuantity>
+                <fr:igdtName ref="lorbeer">Lorbeerblätter</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Öl zum Anbraten</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="bohnenkraut">Bohnenkraut</fr:igdtName>
+            </fr:igdtListLine>
+            <fr:igdtListLine>
+                <fr:igdtQuantity/>
+                <fr:igdtName ref="">Salz, Pfeffer</fr:igdtName>
+            </fr:igdtListLine>
+        </fr:igdtList>
+    </fr:recipeIngredients>
+    <fr:recipeInstructions>
+        <fr:instruction>
+            <fr:instrStepName>Vorbereitung</fr:instrStepName>
+            <fr:instrStepText>Die Kartoffeln bereits am Vortag in der Schale garen. </fr:instrStepText>
+            <fr:instrStepText>Zwiebeln in Spalten schneiden. Durchwachsenen Speck in mundgerechte Stücke schneiden. Die grünen Bohnen kipfeln und in Stücke schneiden. Kartoffeln in Stücke schneiden. Die Karotten schälen und in kleine Stücke schneiden. Lauch in Ringe schneiden. Die Kidneybohnen gut abspülen. </fr:instrStepText>
+            <fr:instrStepText>Die grünen Bohnen separat garen. </fr:instrStepText>
+        </fr:instruction>
+        <fr:instruction>
+            <fr:instrStepName>Suppe</fr:instrStepName>
+            <fr:instrStepText>Öl in einem Topf erhitzen. Den durchwachsenen Speck kurz anbraten. Herausnehmen und beiseite stellen. </fr:instrStepText>
+            <fr:instrStepText>Würfelspeck und Zwiebeln in den Topf geben und kurz anbraten. Einen guten Schuss Tomatenmark hinzugeben und kurz mitbraten. Karotten und Lauch hinzugeben, leicht salzen und für ca. 10 min im eigenen Saft dünsten. </fr:instrStepText>
+            <fr:instrStepText>Dann alle Bohnen, die Kartoffeln, die Lorbeerblätter, den durchwachsenen Speck und die Fleischbrühe hinzugeben und alles ca. 20 min in der Fleischbrühe köcheln lassen. Mit Knoblauch, Bohnenkraut und Salz und Pfeffer würzen. </fr:instrStepText>
+        </fr:instruction>
+    </fr:recipeInstructions>
+    <fr:recipeSideDish/>
+    <fr:recipeOrigin/>
+    <fr:recipeSeeAlso/>
+    <fr:recipeLicense/>
+</fr:recipe>
